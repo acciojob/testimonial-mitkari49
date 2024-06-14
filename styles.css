@@ -1,1 +1,20 @@
-/*  your css code here. If applicable */
+.container {
+	padding: 40px;
+	background-color: #eee;
+}
+
+.Testimonial {
+	padding: 10px;
+	background-color: rgb(255, 255, 255);
+	border: 1px solid #ccc; /* Adding border for individual testimonial box */
+	margin: 10px;
+}
+
+.Testimonial-1 {
+	margin-bottom: 20px; /* Increased bottom margin for more gap */
+}
+
+.Author {
+	text-align: right;
+	font-style: italic;
+}
